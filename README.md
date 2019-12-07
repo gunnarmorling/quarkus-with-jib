@@ -1,6 +1,7 @@
 # Quarkus with Jib
 
 Exploration of using Quarkus with Jib (https://github.com/GoogleContainerTools/jib) for building container images.
+Related issue in Jib's issue tracker: https://github.com/GoogleContainerTools/jib/issues/1555
 
 ## Usage
 
